@@ -25,3 +25,35 @@ __SDLC(Software Development Life Cycle) is a structured process to develop a sof
 - Testing occurs only after full code development, risking major bugs and tensions between development and testing teams.
 - Client rejection of the final product can lead to project failure or full redevelopment.
 
+![waterfall methodology image preview](waterfall.svg)
+
+### Agile Methodology
+*This approach follows sprint based development, software is divided into features and this features are developed and tested one after other in each sprint. and every sprint follows the core SDLC elements.*
+
+**Advantages**
+- Parallel development and testing reduce bugs compared to Waterfall.
+- Clients see progress regularly, adding/changing features via the backlog.
+
+**Disadvantages**
+- Frequent changes can expand requirements endlessly without strict control.
+- Requires constant collaboration, daily standups, and skilled cross-functional teams.
+
+<p align="center">
+  <img src="agile.png">
+</p>
+
+### DevOps Methodology
+*In this approach the developers will develop the code and the testers will test the code on the same day and if there are any fixes the developers get feedback and this process will continue in the whole development process. to acheive this we take the help of the CI/CD pipelines and some other tools.*
+
+![DevOps Preview](devops.png)
+
+**Advantages**
+- Faster Releases with improved performance and efficiency
+- Better Collaboration between teams.
+- Cost Effective by automating the most of the tasks.
+
+**Continuous Integration (CI):** _In Continuous Integration as soon as developers commit the code the pipeline will clone the code, then compiles the code, will test the code and build the code into package._
+
+**Continuous Delivery (CD):** _In Continuous Delivery as soon as the package is created the pipeline will fetch the package and deploy it into the servers but there should be manual approval to deploy the_ application.
+
+**Continuous Deployment (CD):** _In Continuous Deployment as soon as package is created the pipeline fetches the package and will deploy into the servers automatically and there is no need of any approval._
