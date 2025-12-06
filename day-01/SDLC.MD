@@ -1,5 +1,5 @@
 # Software Development Life Cycle
-__SDLC(Software Development Life Cycle) is a structured process to develop a software, It includes some phases which we need to follow to develop the software in a effective way with better performance and quality. Those Phases are:__
+_SDLC(Software Development Life Cycle) is a structured process to develop a software, It includes some phases which we need to follow to develop the software in a effective way with better performance and quality. Those Phases are:_
 
 1. 📋 **Planning:** *In this phase team will define the project scope, objective, resources and initail analysis with stake holders.*
 2. 📝 **Requirement Analysis:** *In this phase the team will collect the document needs from users and stake holders.*
