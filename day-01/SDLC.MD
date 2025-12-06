@@ -45,7 +45,9 @@ _SDLC(Software Development Life Cycle) is a structured process to develop a soft
 ### DevOps Methodology
 *In this approach the developers will develop the code and the testers will test the code on the same day and if there are any fixes the developers get feedback and this process will continue in the whole development process. to acheive this we take the help of the CI/CD pipelines and some other tools.*
 
-![DevOps Preview](devops.png)
+<p align="center">
+  <img src="devops.png" height="200px" width="450px">
+</p>
 
 **Advantages**
 - Faster Releases with improved performance and efficiency
